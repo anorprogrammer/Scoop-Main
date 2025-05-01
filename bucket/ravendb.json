@@ -1,5 +1,5 @@
 {
-    "version": "7.0.0",
+    "version": "7.0.2",
     "description": "NoSQL database built on .NET Core",
     "homepage": "https://ravendb.net",
     "license": {
@@ -11,12 +11,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://daily-builds.s3.amazonaws.com/RavenDB-7.0.0-windows-x64.zip",
-            "hash": "4b957427ffb6c344b98406b20f98f024871968f571a998c6c88486bae7dfb72d"
+            "url": "https://daily-builds.s3.amazonaws.com/RavenDB-7.0.2-windows-x64.zip",
+            "hash": "8f91b3f60416c07eef4bb646340f5fbca139a5d5db13980aea66605434367864"
         },
         "32bit": {
-            "url": "https://daily-builds.s3.amazonaws.com/RavenDB-7.0.0-windows-x86.zip",
-            "hash": "142597f72c87e5063265d5f9ff7e780db6005d962d3364775f7a2827dfb6cd8a"
+            "url": "https://daily-builds.s3.amazonaws.com/RavenDB-7.0.2-windows-x86.zip",
+            "hash": "ff960da0fe100ae0f55824b06af1a2a19ed1c42b4c3ba4d44f9fe1d2576d93be"
         }
     },
     "installer": {

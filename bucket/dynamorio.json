@@ -1,11 +1,11 @@
 {
-    "version": "11.90.20147",
+    "version": "11.90.20203",
     "description": "DynamoRIO is a runtime code manipulation system that supports code transformations on any part of a program, while it executes.",
     "homepage": "https://dynamorio.org",
     "license": "BSD-3-Clause-Clear",
-    "url": "https://github.com/DynamoRIO/dynamorio/releases/download/cronbuild-11.90.20147/DynamoRIO-Windows-11.90.20147.zip",
-    "hash": "2155cd81813f8d0fa14c6f9d957ab42f0780f824f181265f57c3e85a9cdffbbf",
-    "extract_dir": "DynamoRIO-Windows-11.90.20147",
+    "url": "https://github.com/DynamoRIO/dynamorio/releases/download/cronbuild-11.90.20203/DynamoRIO-Windows-11.90.20203.zip",
+    "hash": "e2085dc250b62c45a8170ab9c675f5a6dd5a2c5d4c52473b152048c3a1b1f444",
+    "extract_dir": "DynamoRIO-Windows-11.90.20203",
     "architecture": {
         "64bit": {
             "bin": [

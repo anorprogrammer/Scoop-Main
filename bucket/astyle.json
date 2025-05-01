@@ -1,18 +1,18 @@
 {
-    "version": "3.6.7",
+    "version": "3.6.9",
     "description": "A Free, Fast, and Small Automatic Formatter for C, C++, C++/CLI, Objective-C, C#, and Java Source Code",
     "homepage": "https://astyle.sourceforge.net/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://downloads.sourceforge.net/project/astyle/astyle/astyle%203.6/astyle-3.6.7-x64.zip",
-            "hash": "sha1:1d68b247210a6a233047deab9e4179bb7248944b",
-            "extract_dir": "astyle-3.6.7-x64"
+            "url": "https://downloads.sourceforge.net/project/astyle/astyle/astyle%203.6/astyle-3.6.9-x64.zip",
+            "hash": "sha1:84e82f0114a6c981a1586d76326742c54d900fad",
+            "extract_dir": "astyle-3.6.9-x64"
         },
         "32bit": {
-            "url": "https://downloads.sourceforge.net/project/astyle/astyle/astyle%203.6/astyle-3.6.7.zip",
-            "hash": "sha1:5aff1b436116f1bb4329c44813e34367c202d5f8",
-            "extract_dir": "astyle-3.6.7"
+            "url": "https://downloads.sourceforge.net/project/astyle/astyle/astyle%203.6/astyle-3.6.9.zip",
+            "hash": "sha1:0df5b431c8d4117933ea98db9dea676a5f814020",
+            "extract_dir": "astyle-3.6.9"
         }
     },
     "bin": "astyle.exe",
