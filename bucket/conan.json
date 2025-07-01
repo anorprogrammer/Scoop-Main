@@ -1,16 +1,16 @@
 {
-    "version": "2.16.1",
+    "version": "2.18.0",
     "description": "The open-source, decentralized C/C++ package manager",
     "homepage": "https://conan.io",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/conan-io/conan/releases/download/2.16.1/conan-2.16.1-windows-x86_64.zip",
-            "hash": "60a4758cb59cff1312f3dfca892689c294254e9dcdcde0b4aefea7a05ea2c72a"
+            "url": "https://github.com/conan-io/conan/releases/download/2.18.0/conan-2.18.0-windows-x86_64.zip",
+            "hash": "cbec64a3fa70463b26a15d20598d106499cc88e80fe48a7fb27d66fad7d79a3a"
         },
         "32bit": {
-            "url": "https://github.com/conan-io/conan/releases/download/2.16.1/conan-2.16.1-windows-i686.zip",
-            "hash": "200ad185586bccbae05615b808089498f7be0dc7027df516f2ba00898f67ef0e"
+            "url": "https://github.com/conan-io/conan/releases/download/2.18.0/conan-2.18.0-windows-i686.zip",
+            "hash": "cedc69c64418ee86b0794b0b7e0103d1f0f72b0c9924000eb113879e9fb51141"
         }
     },
     "bin": "conan.exe",

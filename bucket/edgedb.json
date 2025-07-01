@@ -1,12 +1,12 @@
 {
-    "version": "7.2.0+23861d0",
+    "version": "7.7.0+40140c4",
     "description": "A graph-relational database",
     "homepage": "https://www.edgedb.com/",
     "license": "Apache-2.0|MIT",
     "architecture": {
         "64bit": {
-            "url": "https://packages.edgedb.com/archive/x86_64-pc-windows-msvc/gel-cli-7.2.0+23861d0.exe#/edgedb.exe",
-            "hash": "1063ecd3d04555adee8ca859210f968a2b2962c71b02eb5f883f5ffe07009a34"
+            "url": "https://packages.edgedb.com/archive/x86_64-pc-windows-msvc/gel-cli-7.7.0+40140c4.exe#/edgedb.exe",
+            "hash": "1ec55c85d09790095549ff70a3df70cba0bbf1006417418662cb13b6e637ab6d"
         }
     },
     "bin": "edgedb.exe",
