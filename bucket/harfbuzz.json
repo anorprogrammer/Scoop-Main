@@ -1,25 +1,24 @@
 {
-    "version": "11.2.1",
+    "version": "12.1.0",
     "description": "Text shaping engine. Supports OpenType and Apple Advanced Typography.",
     "homepage": "https://harfbuzz.github.io/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/harfbuzz/harfbuzz/releases/download/11.2.1/harfbuzz-win64-11.2.1.zip",
-            "hash": "8a322d0292ccc5221009fa6a31831c6d9dce1bf557d8f775fece9978058a39a9",
+            "url": "https://github.com/harfbuzz/harfbuzz/releases/download/12.1.0/harfbuzz-win64-12.1.0.zip",
+            "hash": "e88ef0d0c182625e52f63bc4e335072dfd71f14b7f1a1e642dbd4b805b35fd54",
             "extract_dir": "harfbuzz-win64"
         },
         "32bit": {
-            "url": "https://github.com/harfbuzz/harfbuzz/releases/download/11.2.1/harfbuzz-win32-11.2.1.zip",
-            "hash": "a34216607d8329606f024ba790fc804a508fc82b7a734bbd2178a279e78920b8",
+            "url": "https://github.com/harfbuzz/harfbuzz/releases/download/12.1.0/harfbuzz-win32-12.1.0.zip",
+            "hash": "d0f97d68cd309b3f92a3f2b41902f4ea5bae825997f5cc2b1cc20b409d6531f9",
             "extract_dir": "harfbuzz-win32"
         }
     },
     "bin": [
         "hb-shape.exe",
         "hb-subset.exe",
-        "hb-view.exe",
-        "hb-ot-shape-closure.exe"
+        "hb-view.exe"
     ],
     "checkver": {
         "github": "https://github.com/harfbuzz/harfbuzz"

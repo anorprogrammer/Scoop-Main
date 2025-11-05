@@ -1,13 +1,13 @@
 {
-    "version": "1.18.4",
+    "version": "1.19.2",
     "description": "A dynamic and functional programming language designed for building scalable and maintainable applications.",
     "homepage": "https://elixir-lang.org/",
     "license": "Apache-2.0",
     "suggest": {
         "Erlang compiler": "erlang"
     },
-    "url": "https://builds.hex.pm/builds/elixir/v1.18.4.zip",
-    "hash": "9e87c5e5efd9b85565f28077d53adb73d7cd7440900cf02c4b58364cb9ef5a9a",
+    "url": "https://builds.hex.pm/builds/elixir/v1.19.2.zip",
+    "hash": "a418de7ce29128f867bfa604a4cb1e36f5b9fe7dd4c64c4f153d85199848b07e",
     "env_add_path": "bin",
     "checkver": {
         "github": "https://github.com/elixir-lang/elixir"

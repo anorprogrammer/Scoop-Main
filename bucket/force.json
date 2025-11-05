@@ -1,12 +1,12 @@
 {
-    "version": "1.0.10",
+    "version": "1.4.2",
     "description": "Force.com CLI tool",
     "homepage": "https://force-cli.herokuapp.com/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ForceCLI/force/releases/download/v1.0.10/force_windows_amd64.zip",
-            "hash": "96958fbcba31ec6da88ad5c936aa88df5efc41ef48d5fcb25c62b1990c8bcdbb"
+            "url": "https://github.com/ForceCLI/force/releases/download/v1.4.2/force_windows_amd64.zip",
+            "hash": "31076d68213ea14880a6527fc4e35c1c7e2ed9d366b036345854f1aec4a2f798"
         }
     },
     "bin": "force.exe",

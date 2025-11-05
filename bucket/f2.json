@@ -1,16 +1,16 @@
 {
-    "version": "2.1.2",
+    "version": "2.2.1",
     "description": "Batch renaming files and directories quickly and safely.",
     "homepage": "https://f2.freshman.tech",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ayoisaiah/f2/releases/download/v2.1.2/f2_2.1.2_windows_amd64.zip",
-            "hash": "f921f0eb506d1f58596c151750bbc94cfeefe0384dc108d4e5452d4c04899c5d"
+            "url": "https://github.com/ayoisaiah/f2/releases/download/v2.2.1/f2_2.2.1_windows_amd64.zip",
+            "hash": "7941b92f8cf2622c789182b9e1fc904a1eff9bd8b628b59bbe557b7dc4a7c18e"
         },
         "32bit": {
-            "url": "https://github.com/ayoisaiah/f2/releases/download/v2.1.2/f2_2.1.2_windows_386.zip",
-            "hash": "6fbd264b8253bef8d50cddadd0afbf369753730e4e272822e620f8206858f1a0"
+            "url": "https://github.com/ayoisaiah/f2/releases/download/v2.2.1/f2_2.2.1_windows_386.zip",
+            "hash": "1365a301f19d3cdae589a725162703b4fb41fd21c238cb32a40db58e9f355cd0"
         }
     },
     "bin": "f2.exe",

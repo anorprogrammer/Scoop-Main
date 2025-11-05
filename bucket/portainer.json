@@ -1,12 +1,12 @@
 {
-    "version": "2.27.8",
+    "version": "2.33.3",
     "description": "Making Docker and Kubernetes management easy.",
     "homepage": "https://portainer.io/",
     "license": "Zlib",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/portainer/portainer/releases/download/2.27.8/portainer-2.27.8-windows1809-amd64.tar.gz",
-            "hash": "050f5504cb80a75f026587ee4a0c79db77f0e90c0f061ae463efc2b4984292ab"
+            "url": "https://github.com/portainer/portainer/releases/download/2.33.3/portainer-2.33.3-windows1809-amd64.tar.gz",
+            "hash": "3c12fa45901b622378f288359f14832cf0b8d3106ce9863bf164c36996b927e3"
         }
     },
     "extract_dir": "portainer",

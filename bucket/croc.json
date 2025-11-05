@@ -1,20 +1,20 @@
 {
-    "version": "10.2.2",
+    "version": "10.2.7",
     "description": "Easily and securely send things from one computer to another.",
     "homepage": "https://schollz.com/software/croc6",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/schollz/croc/releases/download/v10.2.2/croc_v10.2.2_Windows-64bit.zip",
-            "hash": "97569bdd93adf19ccb5d6c2eb0912daa453f8f78d2f735fcbad34ee735296983"
+            "url": "https://github.com/schollz/croc/releases/download/v10.2.7/croc_v10.2.7_Windows-64bit.zip",
+            "hash": "ce6c73c280bf92b44f92c38417b0d0f7ffe62cd62b43cecba3d009a1befb3465"
         },
         "32bit": {
-            "url": "https://github.com/schollz/croc/releases/download/v10.2.2/croc_v10.2.2_Windows-32bit.zip",
-            "hash": "1b57425b5702f8af6ab138fb3b5402216d0892cf4369aa24340f9f6616ddd3d7"
+            "url": "https://github.com/schollz/croc/releases/download/v10.2.7/croc_v10.2.7_Windows-32bit.zip",
+            "hash": "a9c767785f16551aac6d1b92b042157890523f4500949867f0ad6748e9bc30a6"
         },
         "arm64": {
-            "url": "https://github.com/schollz/croc/releases/download/v10.2.2/croc_v10.2.2_Windows-ARM64.zip",
-            "hash": "80bc0e9c6853d760b9ab15de9cab66ea2217ae2a68c04656003055ed21755d36"
+            "url": "https://github.com/schollz/croc/releases/download/v10.2.7/croc_v10.2.7_Windows-ARM64.zip",
+            "hash": "4d31bd74995b7758b8c9678173ade94f7c0ec680533d99b0388dfb3f21d7cf4c"
         }
     },
     "bin": "croc.exe",
