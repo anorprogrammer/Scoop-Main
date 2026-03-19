@@ -1,16 +1,16 @@
 {
-    "version": "1.22.5",
+    "version": "1.25.12",
     "description": "Bulk port forwarding Kubernetes services for local development",
     "homepage": "https://github.com/txn2/kubefwd",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/txn2/kubefwd/releases/download/1.22.5/kubefwd_Windows_x86_64.zip",
-            "hash": "8e8b893ab4fca6020cbade48b6b142b44dfd4770a686456ac2f8d34aad0c4fec"
+            "url": "https://github.com/txn2/kubefwd/releases/download/v1.25.12/kubefwd_Windows_x86_64.zip",
+            "hash": "0f64184a213d1d209662c6b71b78af657f0e3800aa130a702c3d1b238baa66fa"
         },
         "32bit": {
-            "url": "https://github.com/txn2/kubefwd/releases/download/1.22.5/kubefwd_Windows_i386.zip",
-            "hash": "4576540dc41b5ecceded37702f6da0e981488ed09cdadd3a623366451c234c57"
+            "url": "https://github.com/txn2/kubefwd/releases/download/v1.25.12/kubefwd_Windows_i386.zip",
+            "hash": "840117b81f66038f17d2bf2ded128b053f28e4dfcbca64ca94eceb85690b1baa"
         }
     },
     "bin": "kubefwd.exe",
@@ -18,10 +18,10 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/txn2/kubefwd/releases/download/$version/kubefwd_Windows_x86_64.zip"
+                "url": "https://github.com/txn2/kubefwd/releases/download/v$version/kubefwd_Windows_x86_64.zip"
             },
             "32bit": {
-                "url": "https://github.com/txn2/kubefwd/releases/download/$version/kubefwd_Windows_i386.zip"
+                "url": "https://github.com/txn2/kubefwd/releases/download/v$version/kubefwd_Windows_i386.zip"
             }
         },
         "hash": {

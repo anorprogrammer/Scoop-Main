@@ -1,16 +1,16 @@
 {
-    "version": "2.54.0",
+    "version": "2.60.0",
     "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool",
     "homepage": "https://github.com/fastfetch-cli/fastfetch",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.54.0/fastfetch-windows-amd64.7z",
-            "hash": "807189f036820df092a13b04a452fcd12080fdd196a9c8c6f6a5f2fbb8b8dd63"
+            "url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.60.0/fastfetch-windows-amd64.7z",
+            "hash": "7ca4decbd10846c922182b0179835fac821225f52492637017533dc98668d2b0"
         },
         "arm64": {
-            "url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.54.0/fastfetch-windows-aarch64.7z",
-            "hash": "bc11fd8b6b16d62705945680dbde5f7995ee00f2588b6355ab9b8002edfc8a66"
+            "url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.60.0/fastfetch-windows-aarch64.7z",
+            "hash": "8e7926deeaa0a6043e0be658e9ed87cbca70d5168a87df603c5f77f8e72af82e"
         }
     },
     "bin": [

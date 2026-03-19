@@ -1,16 +1,16 @@
 {
-    "version": "1.15.10",
+    "version": "1.17.7",
     "description": "Binary installation for rust projects",
     "homepage": "https://github.com/cargo-bins/cargo-binstall",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cargo-bins/cargo-binstall/releases/download/v1.15.10/cargo-binstall-x86_64-pc-windows-msvc.zip",
-            "hash": "9ce1b372bc73bdb746af2c49cbb0f4fca5fd0000c4d8e7d642ef296187e3c7b2"
+            "url": "https://github.com/cargo-bins/cargo-binstall/releases/download/v1.17.7/cargo-binstall-x86_64-pc-windows-msvc.zip",
+            "hash": "c5cb2444ee04480502a8ac73d96abd9f97af8300ec04ea1c1f2a9e959c02e4d6"
         },
         "arm64": {
-            "url": "https://github.com/cargo-bins/cargo-binstall/releases/download/v1.15.10/cargo-binstall-aarch64-pc-windows-msvc.zip",
-            "hash": "99ebe31c254da52d11622834487eb82bdd6ae800256aa727d0a21d01ba8822b6"
+            "url": "https://github.com/cargo-bins/cargo-binstall/releases/download/v1.17.7/cargo-binstall-aarch64-pc-windows-msvc.zip",
+            "hash": "e876543c9aad23968d1123c0d959309937894bbfd267bb0878109fb253217878"
         }
     },
     "bin": "cargo-binstall.exe",

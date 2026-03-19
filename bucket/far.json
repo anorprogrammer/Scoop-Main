@@ -1,5 +1,5 @@
 {
-    "version": "3.0.6575",
+    "version": "3.0.6644",
     "description": "A text-mode files and archives manager",
     "homepage": "https://farmanager.com/",
     "license": {
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://farmanager.com/files/Far30b6575.x64.20251021.7z",
-            "hash": "a604b673baa14b346aa5ca42ec102815f2bbb7876ec3756aef9bb6c8077fba36"
+            "url": "https://farmanager.com/files/Far30b6644.x64.20260212.7z",
+            "hash": "cac160b40a289f1fc5ab1032a17bf3122a22dc2efd3311b91365175e3ee9651c"
         },
         "32bit": {
-            "url": "https://farmanager.com/files/Far30b6575.x86.20251021.7z",
-            "hash": "439c7f31862c40f3af30323a8b3808f3a2973a06c26330e7755c2a00a1669dde"
+            "url": "https://farmanager.com/files/Far30b6644.x86.20260212.7z",
+            "hash": "a1dc8e858a83264a7973df3fc4c193156697c7787210913619ed612d34bb2618"
         }
     },
     "pre_install": [

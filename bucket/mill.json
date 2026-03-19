@@ -1,13 +1,13 @@
 {
-    "version": "1.0.6",
+    "version": "1.1.3",
     "description": "Build tool aiming for Java and Scala.",
     "homepage": "https://mill-build.org",
     "license": "MIT",
     "suggest": {
         "JDK": "java/openjdk"
     },
-    "url": "https://repo1.maven.org/maven2/com/lihaoyi/mill-dist/1.0.6/mill-dist-1.0.6-mill.bat#/mill.bat",
-    "hash": "52946f08fb2c81493bb44e01bde42be05d2e5bc121adf5887192359126eed2e3",
+    "url": "https://repo1.maven.org/maven2/com/lihaoyi/mill-dist/1.1.3/mill-dist-1.1.3-mill.bat#/mill.bat",
+    "hash": "b0e5dcc4e7d94c220260ac4b60758d91624832d3ba98a1fd893315ebe579a715",
     "bin": "mill.bat",
     "checkver": {
         "github": "https://github.com/com-lihaoyi/mill"

@@ -1,16 +1,16 @@
 {
-    "version": "0.10.0",
+    "version": "0.12.1",
     "description": "Real-time logging dashboard for Kubernetes",
     "homepage": "https://github.com/kubetail-org/kubetail",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kubetail-org/kubetail/releases/download/cli%2Fv0.10.0/kubetail-windows-amd64#/kubetail.exe",
-            "hash": "0afe1d38d52e0f5753ce1c75098f74d1a06f2ea9f3dfed074abf18a1cb381861"
+            "url": "https://github.com/kubetail-org/kubetail/releases/download/cli%2Fv0.12.1/kubetail-windows-amd64#/kubetail.exe",
+            "hash": "4727312282a88c94f86c85cade7c83200bee612936dbd694168ab50cde83e984"
         },
         "arm64": {
-            "url": "https://github.com/kubetail-org/kubetail/releases/download/cli%2Fv0.10.0/kubetail-windows-arm64#/kubetail.exe",
-            "hash": "554d0c9f66c1bd63863e115562e467cf359d667812f288d4647a62b8d9516d10"
+            "url": "https://github.com/kubetail-org/kubetail/releases/download/cli%2Fv0.12.1/kubetail-windows-arm64#/kubetail.exe",
+            "hash": "c6d6d1ae24820a16badc542e4223939ecc6d3b02e2b6415fbb55e2bd62e402ee"
         }
     },
     "bin": "kubetail.exe",

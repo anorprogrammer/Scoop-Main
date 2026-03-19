@@ -1,5 +1,5 @@
 {
-    "version": "27.5.0",
+    "version": "29.9.0",
     "description": "A prompt theme engine for any shell",
     "homepage": "https://ohmyposh.dev",
     "license": "MIT",
@@ -7,22 +7,22 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v27.5.0/themes.zip",
-                "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v27.5.0/posh-windows-amd64.exe#/oh-my-posh.exe"
+                "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.9.0/themes.zip",
+                "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.9.0/posh-windows-amd64.exe#/oh-my-posh.exe"
             ],
             "hash": [
-                "7dd85c0fa08ed19fc490475acdbb60e43a4036bbf28e91da9c874f9863f76298",
-                "7c32a7a4755684b11385b148ff48094bde98f33b1b715234734ce5d6173ada6f"
+                "3c13e793b68f1f608ca7085aa694ddbce6c0dad709f8ea6ddf573e93a393a117",
+                "37b8cbb10982b68d21256ca93663861b1ab80dc366b61f5471806149d25054d3"
             ]
         },
         "arm64": {
             "url": [
-                "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v27.5.0/themes.zip",
-                "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v27.5.0/posh-windows-arm64.exe#/oh-my-posh.exe"
+                "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.9.0/themes.zip",
+                "https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v29.9.0/posh-windows-arm64.exe#/oh-my-posh.exe"
             ],
             "hash": [
-                "7dd85c0fa08ed19fc490475acdbb60e43a4036bbf28e91da9c874f9863f76298",
-                "83e1fe416a8666fa539d1e54e4b2664cafa2d2e516c3e311525f62f445a2734f"
+                "3c13e793b68f1f608ca7085aa694ddbce6c0dad709f8ea6ddf573e93a393a117",
+                "fb4d879edb10b16f52df28fbb4be803531f780354def2aabed47b2217e78c276"
             ]
         }
     },
