@@ -1,12 +1,12 @@
 {
-    "version": "0.21.0",
+    "version": "0.23.0",
     "description": "Generate documentation from Terraform modules in various output formats",
     "homepage": "https://github.com/terraform-docs/terraform-docs",
     "license": "MIT License ",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/terraform-docs/terraform-docs/releases/download/v0.21.0/terraform-docs-v0.21.0-windows-amd64.zip",
-            "hash": "9f45957d50656ec91c6172d73a6c9e6a22df2ccc7ca880cf288d19d6f5e349db"
+            "url": "https://github.com/terraform-docs/terraform-docs/releases/download/v0.23.0/terraform-docs-v0.23.0-windows-amd64.zip",
+            "hash": "f789b747da9e373012f2e3ceeb7802572f1893adad3c97bd66bc5dfa34b341b1"
         }
     },
     "bin": "terraform-docs.exe",

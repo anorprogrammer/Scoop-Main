@@ -1,5 +1,5 @@
 {
-    "version": "3.1.54",
+    "version": "3.1.62",
     "description": "GitKraken CLI",
     "homepage": "https://www.gitkraken.com/cli",
     "license": {
@@ -8,16 +8,16 @@
     },
     "architecture": {
         "32bit": {
-            "url": "https://github.com/gitkraken/gk-cli/releases/download/v3.1.54/gk_3.1.54_windows_386.zip",
-            "hash": "d942d0bcc14a26a6d85a59f2f954a023cc9fbbae98010f5a41b0345f0b5586ef"
+            "url": "https://github.com/gitkraken/gk-cli/releases/download/v3.1.62/gk_3.1.62_windows_386.zip",
+            "hash": "f7a512cf61bbcc9db4e952553b56c72c81f015bb62bdc38a5822620f7fb2e825"
         },
         "64bit": {
-            "url": "https://github.com/gitkraken/gk-cli/releases/download/v3.1.54/gk_3.1.54_windows_amd64.zip",
-            "hash": "0ff07e69de15668b4b27d23957b63dec0b958e10aaf8c19cc1fedf817e66bc2b"
+            "url": "https://github.com/gitkraken/gk-cli/releases/download/v3.1.62/gk_3.1.62_windows_amd64.zip",
+            "hash": "6d855cb9e6571aea9b43e82de492d5ae43e1ce23ee8817aa463ad14991f09ece"
         },
         "arm64": {
-            "url": "https://github.com/gitkraken/gk-cli/releases/download/v3.1.54/gk_3.1.54_windows_arm64.zip",
-            "hash": "a4c1ad31be456a58c361df658a294c5a7fecbcd4bd6e8bda7c92af99f8a7f8c1"
+            "url": "https://github.com/gitkraken/gk-cli/releases/download/v3.1.62/gk_3.1.62_windows_arm64.zip",
+            "hash": "bd9ae3f65716497f5c6bb8d0254020ae5373a4b8ea8594b3a594e2b7b3ea3689"
         }
     },
     "bin": "gk.exe",

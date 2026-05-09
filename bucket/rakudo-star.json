@@ -1,12 +1,12 @@
 {
-    "version": "2026.02-01",
+    "version": "2026.04-01",
     "description": "The Rakudo Star Bundle contains the Rakudo Compiler, a collection of modules from the Raku ecosystem, and the language documentation.",
     "homepage": "https://rakudo.org/star",
     "license": "Artistic-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://rakudo.org/dl/star/rakudo-star-2026.02-01-win-x86_64-msvc.msi",
-            "hash": "de26aaa9ed45cc79742923fb81c13fdb0e34bd667c0a8f7d18e58bcc170cd6e9"
+            "url": "https://rakudo.org/dl/star/rakudo-star-2026.04-01-win-x86_64-msvc.msi",
+            "hash": "df35fe93cd934d10c03ca4c34c77aac1fe8ea17a359c0a2a1bb18c15f2c20ca6"
         }
     },
     "extract_dir": "rakudo",

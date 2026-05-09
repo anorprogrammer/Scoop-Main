@@ -1,5 +1,5 @@
 {
-    "version": "1.4.4.7",
+    "version": "1.4.4.10",
     "description": "cppcryptfs is an implementation of the gocryptfs encrypted overlay filesystem in C++ for Windows.",
     "homepage": "https://github.com/bailey27/cppcryptfs",
     "license": {
@@ -9,22 +9,22 @@
     "architecture": {
         "64bit": {
             "url": [
-                "https://github.com/bailey27/cppcryptfs/releases/download/v1.4.4.7/cppcryptfsctl.exe",
-                "https://github.com/bailey27/cppcryptfs/releases/download/v1.4.4.7/cppcryptfs.exe"
+                "https://github.com/bailey27/cppcryptfs/releases/download/v1.4.4.10/cppcryptfsctl.exe",
+                "https://github.com/bailey27/cppcryptfs/releases/download/v1.4.4.10/cppcryptfs.exe"
             ],
             "hash": [
-                "5acd0e03af2cb28059818a9a5ba05f6d2bd763774c9abf4ea534bd21f13dcc4f",
-                "5cfa208890ccdcdf046f99b14a4b80392325ae3ce86c9b4b4d9397afeb21e34e"
+                "e6826b5435cfc93b606328e4111f930154f535fdf642baf6a49274a0d8832c0c",
+                "7046905c50e72670606aa1a91a53605baa2a349f2572f2d322968a4d382201be"
             ]
         },
         "32bit": {
             "url": [
-                "https://github.com/bailey27/cppcryptfs/releases/download/v1.4.4.7/cppcryptfsctl32.exe#/cppcryptfsctl.exe",
-                "https://github.com/bailey27/cppcryptfs/releases/download/v1.4.4.7/cppcryptfs32.exe#/cppcryptfs.exe"
+                "https://github.com/bailey27/cppcryptfs/releases/download/v1.4.4.10/cppcryptfsctl32.exe#/cppcryptfsctl.exe",
+                "https://github.com/bailey27/cppcryptfs/releases/download/v1.4.4.10/cppcryptfs32.exe#/cppcryptfs.exe"
             ],
             "hash": [
-                "f834a4a910799fab78ab2572c1864b9a8ff473add3929359a34e5b661807b1fc",
-                "cdc5fd0b6beb6c8933fffec0a7987bd71aabd89eac78ccef6bfd22948f24cced"
+                "c4e0e009be33e5e5e29dd528097977783ba23a0015b23d3f00ca550e3cdd6169",
+                "96b75959f0f9e5adec76d6ca99cdeb5b0736e98f252fbe4e65ba9e4e2206dfb7"
             ]
         }
     },

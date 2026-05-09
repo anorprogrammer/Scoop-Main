@@ -1,12 +1,12 @@
 {
-    "version": "0.7.11",
+    "version": "0.7.15",
     "description": "A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster",
     "homepage": "https://github.com/kubernetes-sigs/aws-iam-authenticator",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.11/aws-iam-authenticator_0.7.11_windows_amd64.exe#/aws-iam-authenticator.exe",
-            "hash": "e6bfb337fb129778b8e969c9724883edcaca2a87f5ab5d7b561b5f62d02859a4"
+            "url": "https://github.com/kubernetes-sigs/aws-iam-authenticator/releases/download/v0.7.15/aws-iam-authenticator_0.7.15_windows_amd64.exe#/aws-iam-authenticator.exe",
+            "hash": "c31495cf6713eafbd0cc73f12e98daab9ff61e72aa96e3292142a51c03a55d6e"
         }
     },
     "bin": "aws-iam-authenticator.exe",
