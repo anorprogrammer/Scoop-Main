@@ -1,12 +1,12 @@
 {
-    "version": "2.7.0",
+    "version": "2.8.1",
     "description": "A Programmable, Private, Browser-based, Open Source, Self Hosted, Personal Knowledge Management Platform",
     "homepage": "https://silverbullet.md",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/silverbulletmd/silverbullet/releases/download/2.7.0/silverbullet-server-windows-x86_64.zip",
-            "hash": "87ade880f490c82f1b52c3dd2315fb637795b8841c5c10ac684923716ab717fc"
+            "url": "https://github.com/silverbulletmd/silverbullet/releases/download/2.8.1/silverbullet-server-windows-x86_64.zip",
+            "hash": "679b1916934447eb21d45e1d3074f2c4eaad8222cedfde8c24d95c7a0b5e3286"
         }
     },
     "bin": "silverbullet.exe",

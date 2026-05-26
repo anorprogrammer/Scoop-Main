@@ -1,16 +1,16 @@
 {
-    "version": "0.3.0",
+    "version": "0.4.0",
     "description": "A CLI tool for inspecting and managing services listening on localhost ports.",
     "homepage": "https://github.com/raskrebs/sonar",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/raskrebs/sonar/releases/download/v0.3.0/sonar_windows_amd64.zip",
-            "hash": "58213c61dfa5f348c7c34acc27c578470c48ddb541b7024eebe1bfffa05abc02"
+            "url": "https://github.com/raskrebs/sonar/releases/download/v0.4.0/sonar_windows_amd64.zip",
+            "hash": "7b4a48104380eaad349e0d9783ebf0f90a0dc538669acc43229b325e199bd91c"
         },
         "arm64": {
-            "url": "https://github.com/raskrebs/sonar/releases/download/v0.3.0/sonar_windows_arm64.zip",
-            "hash": "d8e0eee1fa6b16fd8b5fef588fb21764a716816fa57e98c1683be6c35fe3f77a"
+            "url": "https://github.com/raskrebs/sonar/releases/download/v0.4.0/sonar_windows_arm64.zip",
+            "hash": "0680883ad8e57b2d978910aba966481404bec96a6786498b9a531c05229fc824"
         }
     },
     "bin": "sonar.exe",

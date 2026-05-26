@@ -1,20 +1,20 @@
 {
-    "version": "2.8.6",
+    "version": "2.8.8",
     "description": "Open and extensible continuous delivery solution for Kubernetes.",
     "homepage": "https://fluxcd.io",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/fluxcd/flux2/releases/download/v2.8.6/flux_2.8.6_windows_amd64.zip",
-            "hash": "05fe1b414bb40555d72e8149aca7046eba4ceacea7825d011c1188cc74c62e9c"
+            "url": "https://github.com/fluxcd/flux2/releases/download/v2.8.8/flux_2.8.8_windows_amd64.zip",
+            "hash": "78045ff9a4e2a6c05265d7a027694fbaca43f08f782da5c9214f852e06189bf8"
         },
         "arm64": {
-            "url": "https://github.com/fluxcd/flux2/releases/download/v2.8.6/flux_2.8.6_windows_arm64.zip",
-            "hash": "8be323b730d1c99977926e12a6d35d32ccfc91cb942e19c282fc7e8a21e4f1ed"
+            "url": "https://github.com/fluxcd/flux2/releases/download/v2.8.8/flux_2.8.8_windows_arm64.zip",
+            "hash": "c213f097adc18b8f6ad532496f1be053ebd8ce115cb43a76b4eaecaa0a88a458"
         },
         "32bit": {
-            "url": "https://github.com/fluxcd/flux2/releases/download/v2.8.6/flux_2.8.6_windows_386.zip",
-            "hash": "ab38219399ded90881d670dc4cd36052d2cd5c347cd5881ea45084b507acdd68"
+            "url": "https://github.com/fluxcd/flux2/releases/download/v2.8.8/flux_2.8.8_windows_386.zip",
+            "hash": "349daf916a40d896648fefed0ae66c1c12cced2fc9807ca161c049bfd9593460"
         }
     },
     "bin": "flux.exe",

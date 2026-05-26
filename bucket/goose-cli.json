@@ -1,12 +1,12 @@
 {
-    "version": "1.33.1",
+    "version": "1.35.0",
     "description": "An open-source, extensible AI agent that goes beyond code suggestions.",
     "homepage": "https://block.github.io/goose/",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/block/goose/releases/download/v1.33.1/goose-x86_64-pc-windows-msvc.zip",
-            "hash": "070471b7aaba896fb52f0e6af68925ed04db4978dbb50a538f9cc1c8afad50a8"
+            "url": "https://github.com/block/goose/releases/download/v1.35.0/goose-x86_64-pc-windows-msvc.zip",
+            "hash": "398953652d14a057e237ecce1e6373b8a0dd9946ec629a35f8bee1f33501fabd"
         }
     },
     "extract_dir": "goose-package",

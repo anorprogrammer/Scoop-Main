@@ -1,17 +1,17 @@
 {
-    "version": "1.15.2",
+    "version": "1.15.4",
     "description": "Create and manage infrastructure as code using simple declarative configuration files.",
     "homepage": "https://www.terraform.io",
     "license": "BUSL-1.1",
     "architecture": {
         "64bit": {
-            "url": "https://releases.hashicorp.com/terraform/1.15.2/terraform_1.15.2_windows_amd64.zip",
-            "hash": "a7e25570dd85f363581e96cac0b468257c45945ca8875d951413b6606c9b86d4",
+            "url": "https://releases.hashicorp.com/terraform/1.15.4/terraform_1.15.4_windows_amd64.zip",
+            "hash": "159169a73fcbdfb1b0ff3e2b7abf4ec94f9ebbb314ae3a0e19e494b357ef1488",
             "pre_install": "ensure \"$env:APPDATA\\terraform.d\\plugins\\windows_amd64\" | Out-Null"
         },
         "32bit": {
-            "url": "https://releases.hashicorp.com/terraform/1.15.2/terraform_1.15.2_windows_386.zip",
-            "hash": "3c09be66873af3ded27b5d2cce19c87cfcd300a1e35236236c66626680f3a00b",
+            "url": "https://releases.hashicorp.com/terraform/1.15.4/terraform_1.15.4_windows_386.zip",
+            "hash": "07b707f993d40abfc2a55e224a424fd59d037dbca1fa5ad6efd34cc9ee2ab7cb",
             "pre_install": "ensure \"$env:APPDATA\\terraform.d\\plugins\\windows_386\" | Out-Null"
         }
     },
